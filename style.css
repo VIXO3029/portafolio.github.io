@@ -326,14 +326,17 @@
   /* Pie de pagina (footer) */
   
   footer {
-    height: auto;
-    padding: 10px;
+    min-height: 500px;
+    min-width: -moz-availables;
   }
+
+  
   
   .footer-logo {
     height: 80px;
     width: 80px;
     margin: 10px;
+    border-radius: 50%;
   }
   
   .footer-texto {
