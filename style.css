@@ -326,7 +326,8 @@
   /* Pie de pagina (footer) */
   
   footer {
-    min-height: 500px;
+    height: auto;
+    padding: 10px;
   }
   
   .footer-logo {
